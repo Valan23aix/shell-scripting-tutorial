@@ -7,7 +7,7 @@
 #Author: Ankam Ravi Kumar
 # START #
 
-echo "ecnter the user name $NM"
+echo "enter the user name $NM"
 read NM
 echo "`useradd -d /users/$NM $NM`"
 
